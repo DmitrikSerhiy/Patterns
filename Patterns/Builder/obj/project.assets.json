@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "Z:\\study\\7_term\\Patterns\\Builder\\Builder\\Builder.csproj",
+      "projectUniqueName": "Z:\\study\\7_term\\Patterns\\Patterns\\Builder\\Builder.csproj",
       "projectName": "Builder",
-      "projectPath": "Z:\\study\\7_term\\Patterns\\Builder\\Builder\\Builder.csproj",
+      "projectPath": "Z:\\study\\7_term\\Patterns\\Patterns\\Builder\\Builder.csproj",
       "packagesPath": "C:\\Users\\DrVoo\\.nuget\\packages\\",
-      "outputPath": "Z:\\study\\7_term\\Patterns\\Builder\\Builder\\obj\\",
+      "outputPath": "Z:\\study\\7_term\\Patterns\\Patterns\\Builder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

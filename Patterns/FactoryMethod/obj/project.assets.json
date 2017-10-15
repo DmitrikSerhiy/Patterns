@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "Z:\\study\\7_term\\Patterns\\Builder\\FactoryMethod\\FactoryMethod.csproj",
+      "projectUniqueName": "Z:\\study\\7_term\\Patterns\\Patterns\\FactoryMethod\\FactoryMethod.csproj",
       "projectName": "FactoryMethod",
-      "projectPath": "Z:\\study\\7_term\\Patterns\\Builder\\FactoryMethod\\FactoryMethod.csproj",
+      "projectPath": "Z:\\study\\7_term\\Patterns\\Patterns\\FactoryMethod\\FactoryMethod.csproj",
       "packagesPath": "C:\\Users\\DrVoo\\.nuget\\packages\\",
-      "outputPath": "Z:\\study\\7_term\\Patterns\\Builder\\FactoryMethod\\obj\\",
+      "outputPath": "Z:\\study\\7_term\\Patterns\\Patterns\\FactoryMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
