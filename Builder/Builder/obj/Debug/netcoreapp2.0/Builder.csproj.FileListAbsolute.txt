@@ -1,0 +1,10 @@
+Z:\study\7_term\Patterns\Builder\Builder\bin\Debug\netcoreapp2.0\Builder.deps.json
+Z:\study\7_term\Patterns\Builder\Builder\bin\Debug\netcoreapp2.0\Builder.runtimeconfig.json
+Z:\study\7_term\Patterns\Builder\Builder\bin\Debug\netcoreapp2.0\Builder.runtimeconfig.dev.json
+Z:\study\7_term\Patterns\Builder\Builder\bin\Debug\netcoreapp2.0\Builder.dll
+Z:\study\7_term\Patterns\Builder\Builder\bin\Debug\netcoreapp2.0\Builder.pdb
+Z:\study\7_term\Patterns\Builder\Builder\obj\Debug\netcoreapp2.0\Builder.csproj.CoreCompileInputs.cache
+Z:\study\7_term\Patterns\Builder\Builder\obj\Debug\netcoreapp2.0\Builder.AssemblyInfoInputs.cache
+Z:\study\7_term\Patterns\Builder\Builder\obj\Debug\netcoreapp2.0\Builder.AssemblyInfo.cs
+Z:\study\7_term\Patterns\Builder\Builder\obj\Debug\netcoreapp2.0\Builder.dll
+Z:\study\7_term\Patterns\Builder\Builder\obj\Debug\netcoreapp2.0\Builder.pdb
