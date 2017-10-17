@@ -1,0 +1,11 @@
+Z:\study\7_term\Patterns\Patterns\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.deps.json
+Z:\study\7_term\Patterns\Patterns\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.runtimeconfig.json
+Z:\study\7_term\Patterns\Patterns\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.runtimeconfig.dev.json
+Z:\study\7_term\Patterns\Patterns\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.dll
+Z:\study\7_term\Patterns\Patterns\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.pdb
+Z:\study\7_term\Patterns\Patterns\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.csprojResolveAssemblyReference.cache
+Z:\study\7_term\Patterns\Patterns\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.csproj.CoreCompileInputs.cache
+Z:\study\7_term\Patterns\Patterns\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.AssemblyInfoInputs.cache
+Z:\study\7_term\Patterns\Patterns\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.AssemblyInfo.cs
+Z:\study\7_term\Patterns\Patterns\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.dll
+Z:\study\7_term\Patterns\Patterns\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.pdb
