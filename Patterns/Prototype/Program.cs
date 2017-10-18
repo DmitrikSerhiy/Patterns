@@ -6,7 +6,12 @@ namespace Prototype
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Circle figure = new Circle(30, 50, 60);
+            Circle clonedFigure = figure.Clone() as Circle;
+            figure.Point.X = 100; 
+            figure.GetInfo(); 
+            clonedFigure.GetInfo(); 
+            Console.ReadKey();
         }
     }
 }
