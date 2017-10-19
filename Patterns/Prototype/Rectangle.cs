@@ -6,8 +6,8 @@ namespace Prototype
 {
     public class Rectangle : IFigure
     {
-        int width;
-        int height;
+        public int width { get; set; }
+        public int height { get; set; }
         public Rectangle(int w, int h)
         {
             width = w;

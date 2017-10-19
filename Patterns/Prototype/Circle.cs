@@ -1,41 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Prototype
 {
-    public class Circle : IFigure, ICloneable
+    public class Circle : IFigure
     {
-        int radius;
-        public Point Point { get; set; }
-        public Circle(int r, int x, int y)
-        {
-            radius = r;
-            this.Point = new Point { X = x, Y = y };
-        }
-        Circle() { radius = 0; Point = null; }
-        public object Clone()
-        {
-            return new Circle()
-            {
-                radius = this.radius,
-                Point = new Point { X = this.Point.X, Y = this.Point.Y }
-            };
+        public int Radius { set; get; }
+        private Point Point;
 
-        }
-
-        IFigure IFigure.Clone()
+        public Circle(int _Radius, int X, int Y)
         {
-            Console.WriteLine("do not use ");
-            throw new NotImplementedException();
+            Radius = _Radius;
+            Point = new Point(X, Y);
         }
-
         public void GetInfo()
         {
-            Console.WriteLine($"It's circle: {radius}");
+            Console.WriteLine($"It's circle! Radius: {Radius} X: {this.Point.X} Y: {this.Point.Y}");
         }
 
-
+        public IFigure Clone()
+        {
+            int newX = this.Point.X;
+            int newY = this.Point.Y;
+            Point newPoint = new Point(newX, newY);// { X = this.Point.X, Y = this.Point.Y };
+            return new Circle(this.Radius, newPoint.X, newPoint.Y) as IFigure;  
+        }
     }
 }
 

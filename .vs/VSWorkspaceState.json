@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Patterns"
+    "\\Patterns\\AbstractFactory"
   ],
-  "SelectedNode": "\\Patterns\\Patterns.sln",
+  "SelectedNode": "\\Patterns",
   "PreviewInSolutionExplorer": false
 }
