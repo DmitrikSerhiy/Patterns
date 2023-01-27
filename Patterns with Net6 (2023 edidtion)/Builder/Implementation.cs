@@ -1,9 +1,11 @@
 ﻿using System.Text;
 
-namespace BuilderPattern;
+namespace Builder;
 
 /// Intent to separate the construction of complex object from it's representation.
 /// it allows create complex object independent of the parts that make up the object
+///
+/// it really looks like factory method but it allows to create object step by step
 
 // product
 public class Car {
@@ -75,8 +77,6 @@ public class MercedesCarBuilder : CarBuilder {
 // Director
 public class Garage {
     private CarBuilder? _carBuilder;
-
-    public Garage() {}
 
     public void Construct(CarBuilder builder) {
         _carBuilder = builder;
