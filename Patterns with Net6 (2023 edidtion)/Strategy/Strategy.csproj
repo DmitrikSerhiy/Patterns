@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Screenshot 2023-02-20 130402.png" />
+  </ItemGroup>
+
 </Project>
